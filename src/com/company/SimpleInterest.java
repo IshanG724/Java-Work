@@ -13,6 +13,6 @@ public class SimpleInterest {
 //        System.out.print("Enter time : ");
 //        float time= ip.nextFloat();
 //        System.out.println("Total Amount : "+(principal+(principal*rate*time/100)));
-
+        System.out.println("I am a newbie to java!");
     }
 }
